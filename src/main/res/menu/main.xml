@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/jzzh"
+        android:title="进制转换"/>
+    <item
+        android:id="@+id/dwhs"
+        android:title="长度换算"/>
+    <item
+        android:id="@+id/tjhs"
+        android:title="体积换算"/>
+
+    <item
+        android:id="@+id/more"
+        android:title="更多函数"/>
+    <item
+        android:id="@+id/help"
+        android:title="帮助"/>
+</menu>
